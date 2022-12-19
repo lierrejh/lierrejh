@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Lierre!</h1>
-- 🔭 I’m currently working on [NEA-Project](https://github.com/lierrejh/Coursework-Project)
+- 🔭 I’m currently working on [NEA Project](https://github.com/lierrejh/Coursework-Project)
 
 - 🌱 I’m currently learning **Electron**
 
