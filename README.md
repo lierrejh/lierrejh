@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Lierre!</h1>
+<h1 align="center">Hi 👋, I'm Lierre!</h1>
 
 - 🔭 I’m currently working on **[NEA-Project](https://www.github.com/lierrejh/Coursework-Project)**
 
