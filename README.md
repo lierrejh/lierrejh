@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋, I'm Lierre!</h1>
 
-- 🔭 I’m currently working on [NEA-Project](https://www.github.com/lierrejh/Coursework-Project)
+- 🔭 I’m currently working on **[NEA-Project](https://www.github.com/lierrejh/Coursework-Project)**
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [lierrehenry.com](https://www.lierrehenry.com)
+- 👨‍💻 All of my projects are available at **[lierrehenry.com](https://www.lierrehenry.com)**
 
 - 📫 How to reach me **lierrejhenry@gmail.com**
 
