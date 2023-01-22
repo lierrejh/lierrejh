@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Electron**
 
-- 👨‍💻 All of my projects are available at [lierrehenry.com](lierrehenry.com)
+- 👨‍💻 All of my projects are available at [lierrehenry.com](https://www.lierrehenry.com)
 
 - 📫 How to reach me **lierrejhenry@gmail.com**
 
