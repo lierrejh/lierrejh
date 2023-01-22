@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at **[lierrehenry.com](https://www.lierrehenry.com)**
 
-- 📫 How to reach me **lierrejhenry@gmail.com**
+- 📫 How to reach me **ljh@lierrehenry.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
