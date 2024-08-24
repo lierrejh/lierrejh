@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lierre!</h1>
 
-- 🔭 I’m currently working on **[NEA-Project](https://www.github.com/lierrejh/Coursework-Project)**
+- 🔭 I’m currently working on **Private Websites**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at **[lierrehenry.com](https://www.lierrehenry.com)**
 
