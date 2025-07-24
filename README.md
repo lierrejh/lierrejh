@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Private Websites**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Financial Modelling**
 
 - 👨‍💻 All of my projects are available at ~**[lierrehenry.com](https://www.lierrehenry.com)**~ (currently under reconstruction)
 
