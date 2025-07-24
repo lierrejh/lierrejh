@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lierre!</h1>
 
-- 🔭 I’m currently working on **Private Websites**
+- 🔭 I’m currently working on **Finance Projects**
 
 - 🌱 I’m currently learning **Financial Modelling**
 
